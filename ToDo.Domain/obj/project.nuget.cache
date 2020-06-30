@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rBijC4uZupqk9Kt+/bQoLB5yiePyNnMUcjTJ0ttWlCm/1djBJgOzOdt2vddxSahDopXbgJBUio3ha/wO0CUFEg==",
+  "success": true,
+  "projectFilePath": "F:\\Cursos\\Balta.IO\\Curso7196\\todo\\ToDo.Domain\\ToDo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alene\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\alene\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alene\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

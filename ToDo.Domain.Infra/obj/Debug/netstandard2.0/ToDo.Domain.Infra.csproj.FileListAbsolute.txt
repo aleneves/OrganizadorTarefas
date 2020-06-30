@@ -1,0 +1,12 @@
+F:\Cursos\Balta.IO\Curso7196\ToDo\ToDo.Domain.Infra\bin\Debug\netstandard2.0\ToDo.Domain.Infra.deps.json
+F:\Cursos\Balta.IO\Curso7196\ToDo\ToDo.Domain.Infra\bin\Debug\netstandard2.0\ToDo.Domain.Infra.dll
+F:\Cursos\Balta.IO\Curso7196\ToDo\ToDo.Domain.Infra\bin\Debug\netstandard2.0\ToDo.Domain.Infra.pdb
+F:\Cursos\Balta.IO\Curso7196\ToDo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.csprojAssemblyReference.cache
+F:\Cursos\Balta.IO\Curso7196\ToDo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.csproj.CoreCompileInputs.cache
+F:\Cursos\Balta.IO\Curso7196\ToDo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.AssemblyInfoInputs.cache
+F:\Cursos\Balta.IO\Curso7196\ToDo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.AssemblyInfo.cs
+F:\Cursos\Balta.IO\Curso7196\ToDo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.dll
+F:\Cursos\Balta.IO\Curso7196\ToDo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.pdb
+F:\Cursos\Balta.IO\Curso7196\todo\ToDo.Domain.Infra\bin\Debug\netstandard2.0\ToDo.Domain.dll
+F:\Cursos\Balta.IO\Curso7196\todo\ToDo.Domain.Infra\bin\Debug\netstandard2.0\ToDo.Domain.pdb
+F:\Cursos\Balta.IO\Curso7196\todo\ToDo.Domain.Infra\obj\Debug\netstandard2.0\ToDo.Domain.Infra.csproj.CopyComplete
